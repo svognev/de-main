@@ -1,0 +1,132 @@
+{
+  "versions": [
+    {
+      "number": "2.12",
+      "date": "28. Dezember 2018",
+      "title": "INLINE-DATEIEN",
+      "innovation": "Erstellen, bearbeiten und löschen Sie Inline-Dateien in Textabschnitten und Tabellen.",
+      "features": [
+        {
+          "name": "Formeleditor",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/X883Y14/12-1.png"
+        },
+        {
+          "name": "Kommentare exportieren",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/MpSFcPd/12-2.png"
+        },
+        {
+          "name": "Schnellstart-Menüs",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/zQ4f8C0/12-3.png"
+        },
+        {
+          "name": "Ein weiteres Feature",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png"
+        }
+      ]
+    },
+    {
+      "number": "2.11",
+      "date": "8. November 2018",
+      "title": "",
+      "innovation": "",
+      "features": [
+        {
+          "name": "Verbessertes Interfacedesign",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/8530wyh/11-1.png"
+        },
+        {
+          "name": "Suchen/Ersetzen von Stilen",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/C1DxpWg/11-2.png"
+        },
+        {
+          "name": "Verknüpfungsliste",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/j5kPyJ0/icon05.png"
+        },
+        {
+          "name": "Nummerierungsstufe",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/2y0N9cZ/11-4.png"
+        }
+      ]
+    },
+    {
+      "number": "2.10",
+      "date": "28. September 2018",
+      "title": "",
+      "innovation": "",
+      "features": [
+        {
+          "name": "Benutzer Symbolleiste",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/4dvzCH2/10-1.png"
+        },
+        {
+          "name": "Inline-Bilder",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/T48v4kx/10-2.png"
+        },
+        {
+          "name": "Frei positionierbare Verzeichnisse",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/MSBQ1PR/10-3.png"
+        },
+        {
+          "name": "Exportrechte",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/DGg7n5B/10-4.png"
+        }
+      ]
+    },
+    {
+      "number": "2.09",
+      "date": "3. September 2018",
+      "title": "",
+      "innovation": "",
+      "features": [
+        {
+          "name": "Rechtschreibprüfung",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/sgF5mN6/09-1.png"
+        },
+        {
+          "name": "Abschnitts-Tags",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/j67gf61/09-2.png"
+        },
+        {
+          "name": "Magic Tabs",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/YfzDn4t/09-3.png"
+        },
+        {
+          "name": "Funktion „Rückgängig machen“",
+          "descriptionShort": "Text description lorem ipsum dolor sit amet, consectetur adipiscing.",
+          "descriptionLong": "Text description lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+          "icon": "https://i.ibb.co/jzWmyFy/09-4.png"
+        }
+      ]
+    }
+  ]
+}
